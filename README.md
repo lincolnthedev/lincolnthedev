@@ -1,3 +1,3 @@
-### Welcome to my profile!
+# @lincolnthedev
 
-@@include[index.md](index.md)
+## Click [here](https://lincolnthedev.github.io/lincolnthedev/) to see more about me.
