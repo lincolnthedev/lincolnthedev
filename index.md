@@ -1,6 +1,6 @@
 ## Who I Am
 
-My name is Lincoln. I am a web developer from the United States. I'm really liking PHP right now.
+My name is Lincoln. I am a web developer from the United States.
 
 ### 🧠 Things I Know:
    - PHP
@@ -10,7 +10,7 @@ My name is Lincoln. I am a web developer from the United States. I'm really liki
 
 ### 📚 Things I Want to Know:
    - Mobile Apps (Working on It)
-   - Animations (Working on It)
+   - Animations
    - Graphics
    
 ### Contact
