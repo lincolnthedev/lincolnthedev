@@ -7,11 +7,14 @@ My name is Lincoln. I am a web developer from the United States.
    - Linux Terminal
    - Bash Scripting
    - Raspberry Pi
-
-### 📚 Things I Want to Know:
-   - Mobile Apps (Working on It)
-   - Animations
-   - Graphics
+   - A Little Python
+   - HTML
+   - Basic CSS & Basic JS
+   - A Little Node.js
+   - macOS Terminal
+   
+### More About Me:
+   - I ❤️ Linux 🐧
    
 ### Contact
 
