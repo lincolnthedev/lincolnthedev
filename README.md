@@ -1,3 +1,3 @@
-# @lincolnthedev
+# Moved to Gitlab.com
 
-Check out my new project! [lincfolio](https://github.com/linfolio/lincfolio)
+### [https://gitlab.com/lncn](https://gitlab.com/lncn)
